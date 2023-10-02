@@ -1,10 +1,10 @@
 import pygame
 
-from classes.Board import Board
+from src.classes.Board import Board
 
 pygame.init()
 
-WINDOW_SIZE = (600, 600)
+WINDOW_SIZE = (800, 800)
 screen = pygame.display.set_mode(WINDOW_SIZE)
 
 board = Board(WINDOW_SIZE[0], WINDOW_SIZE[1])
