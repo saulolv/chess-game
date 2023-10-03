@@ -1,12 +1,12 @@
 import pygame
 
-from src.classes.Square import Square
-from src.classes.pieces.Rook import Rook
-from src.classes.pieces.Bishop import Bishop
-from src.classes.pieces.Knight import Knight
-from src.classes.pieces.Queen import Queen
-from src.classes.pieces.King import King
-from src.classes.pieces.Pawn import Pawn
+from game.classes.Square import Square
+from game.classes.pieces.Rook import Rook
+from game.classes.pieces.Bishop import Bishop
+from game.classes.pieces.Knight import Knight
+from game.classes.pieces.Queen import Queen
+from game.classes.pieces.King import King
+from game.classes.pieces.Pawn import Pawn
 
 
 # Game state checker
