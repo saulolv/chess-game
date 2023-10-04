@@ -130,12 +130,12 @@ border-color: black;</string>
     <cursorShape>PointingHandCursor</cursorShape>
    </property>
    <property name="styleSheet">
-    <string notr="true">background-color: rgb(246, 211, 45);
+    <string notr="true">background-color: rgb(154, 153, 150);
 border-style: outset;
 border-width: 2px;
 border-radius: 15px;
 border-color: black;
-background-color: rgb(255, 255, 255);</string>
+</string>
    </property>
    <property name="text">
     <string>Voltar</string>
