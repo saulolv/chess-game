@@ -7,8 +7,8 @@ import random
 
 
 def send_email(email_destiny, code):
-    api_key = api
-    # from_email = 'srs@ic.ufal.br'
+    api_key = 'blablabla'
+    from_email = 'srs@ic.ufal.br'
     
     body = f"Seu código de verificação é {code}"
     message = Mail(
